@@ -9,7 +9,7 @@ Be fast and dont touch the HEXAGON or ... O:)
 move your little ball by using your keyboard arrows (right and left)
 
 ## Screenshot:
-<img src="screenshot\.PNG"/>
+<img src="screenshot\Hexagon v2.PNG"/>
 
 ## Game logic:
 speed
