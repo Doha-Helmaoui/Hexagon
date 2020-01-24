@@ -12,7 +12,7 @@ move your little ball by using your keyboard arrows (right and left)
 <img src="screenshot\Hexagon v2.PNG"/>
 
 ## Game logic:
-speed
+speed + precision
 
 ## Tools used:
 * Visual studio Code (Text Editor)
