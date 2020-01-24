@@ -6,7 +6,7 @@
 Be fast and dont touch the HEXAGON or ... O:)
 
 # Tutorial:
-move your little ball by using your keyboard arrows (right and left)
+move the little ball by using your keyboard arrows (right and left)
 
 ## Screenshot:
 <img src="screenshot\Hexagon v2.PNG"/>
