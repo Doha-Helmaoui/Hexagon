@@ -31,6 +31,7 @@ speed + precision
 * C# (logic)
 * Unity (game engine)
 * Paint.Net (Image editting)
+* Audio Cutter
 
 ## Contribution:
 Feel free to fork this project and add whatever you like. 
