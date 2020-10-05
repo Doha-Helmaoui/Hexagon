@@ -10,15 +10,15 @@ move the little ball by using your keyboard arrows (right and left)
 
 ## Screenshot:
  
- *Start Menu
+ * Start Menu
  
 <img src="screenshot\HX1.PNG"/>
 
-*How To Play
+* How To Play
 
 <img src="screenshot\HX2.PNG"/>
 
-*Game
+* Game
 
 <img src="screenshot\HX3.PNG"/>
 
