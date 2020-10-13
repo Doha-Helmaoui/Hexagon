@@ -9,7 +9,7 @@ Be fast and dont touch the HEXAGON or ... O:)
 # Tutorial:
 move the little ball by using your keyboard arrows (right and left)
 
-## Screenshot:
+## Screenshots:
  
  * Start Menu
  
